@@ -1,0 +1,11 @@
+"Gray Matter", 3, 42
+"White Matter", 5001, 5002 (--wm --erode 1)
+"Frontal Gray Matter", 1026, 2026
+"Frontal White Matter", 3003, 4003, 3012, 4012,3014, 4014, 3018, 4018, 3019, 4019, 3020, 4020, 3027, 4027, 3028, 4028, 3032, 4032
+"Posterior Gray Matter", 1025, 2025, 1023, 2023, 1010, 2010
+"Posterior White Matter", 3025, 4025, 3029, 4029, 3008, 4008
+"Basal Ganglia", 11, 50, 12, 51, 13, 52
+"Deep Gray Matter", 10, 49, 11, 50, 12, 51, 13, 52
+"Cortex", 3, 45
+"Thalamus", 10, 49
+"Ventricles", 4, 5, 14, 15, 24, 43, 44
